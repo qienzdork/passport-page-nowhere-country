@@ -1,6 +1,6 @@
 [![The Passport Page of a Country That Isn't There](https://make.fun/badge/the-passport-page-of-a-countr-2-20261121-0318.svg)](https://make.fun/bounty/the-passport-page-of-a-countr-2-20261121-0318)
 [![Rank](https://make.fun/badge/the-passport-page-of-a-countr-2-20261121-0318/qienzdork/passport-page-nowhere-country/rank.svg)](https://make.fun/bounty/the-passport-page-of-a-countr-2-20261121-0318/leaderboard)
-[![Reward](https://make.fun/badge/the-passport-page-of-a-countr-2-20261121-0318/reward.svg)](https://make.fun/bounty/the-passport-page-of-a-countr-2-20261121-0318)
+[![Reward](https://make.fun/badge/the-passport-page-of-a-countr-2-20261121-0318/qienzdork/passport-page-nowhere-country/reward.svg)](https://make.fun/bounty/the-passport-page-of-a-countr-2-20261121-0318)
 
 # The Passport Page of a Country That Isn't There
 
